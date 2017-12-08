@@ -15,6 +15,11 @@ Android
 
 `$ react-native run-android`
 
+## Components Included
+
+- [] Swiper
+- [] SearchBar
+- [] ...
 
 ## License
 
